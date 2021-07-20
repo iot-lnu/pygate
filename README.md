@@ -1,0 +1,2 @@
+# pygate
+Pygate example config
